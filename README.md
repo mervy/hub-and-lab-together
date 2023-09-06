@@ -56,6 +56,7 @@ git push --set-upstream origin --tags
 git remote rename origin origin-gitlab
 git remote remove origin
 ```
-https://gitlab.com/m3rvy/hub-and-lab-together.git
 
-teste
+**Dicas**
+https://gitlab.com/m3rvy/hub-and-lab-together.git
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
