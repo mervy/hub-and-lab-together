@@ -57,3 +57,5 @@ git remote rename origin origin-gitlab
 git remote remove origin
 ```
 https://gitlab.com/m3rvy/hub-and-lab-together.git
+
+teste
